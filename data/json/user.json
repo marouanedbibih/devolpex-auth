@@ -1,0 +1,22 @@
+
+[
+    {
+        "first_name": "John",
+        "last_name": "Doe",
+        "username": "john_doe",
+        "email": "john.doe@example.com",
+        "phone": "1234567890123",
+        "password": "SecurePassword123",
+        "confirm_password": "SecurePassword123"
+      },
+      {
+        "first_name": "",
+        "last_name": "",
+        "username": "",
+        "email": "",
+        "phone": "",
+        "password": "",
+        "confirm_password": ""
+      }
+    
+]
